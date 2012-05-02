@@ -5,7 +5,7 @@ This code is by no means the definite guide to creating javascript code and all 
 
 As single page apps and large scale javascript applications become more prominent on the web, useful resources for those developers who are jumping the ship are crucial
 
-This skeleton can server as a starting point to building javascript applications.  It can also serve as a place to share our knowledge.
+This skeleton can serve as a starting point to building javascript applications.  It can also serve as a place to share our knowledge.
 
 
 ### Requirements 
